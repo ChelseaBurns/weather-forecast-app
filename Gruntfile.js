@@ -203,14 +203,3 @@ module.exports = function(grunt) {
   ]);
 
 };
-Status API Training Shop Blog About
-© 2015 GitHub, Inc. Terms Privacy Security Contact
-NSS-Cohort-9 / weangular
-master
- src
- .gitignore
- Gruntfile.js
- LICENSE
- README.md
- bower.json
- package.json
